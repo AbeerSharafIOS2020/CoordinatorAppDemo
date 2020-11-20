@@ -71,8 +71,6 @@
 			isa = PBXGroup;
 			children = (
 				C34045782567E5F000329923 /* Coordinators */,
-				C340456F2567DE6800329923 /* Model */,
-				C34045702567DED100329923 /* View */,
 				C34045712567DED800329923 /* Controller */,
 				C340455B2567DBF000329923 /* AppDelegate.swift */,
 				C340455F2567DBF000329923 /* ViewController.swift */,
@@ -81,20 +79,6 @@
 				C34045692567DBF900329923 /* Info.plist */,
 			);
 			path = CoordinatorAppDemo;
-			sourceTree = "<group>";
-		};
-		C340456F2567DE6800329923 /* Model */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Model;
-			sourceTree = "<group>";
-		};
-		C34045702567DED100329923 /* View */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = View;
 			sourceTree = "<group>";
 		};
 		C34045712567DED800329923 /* Controller */ = {
